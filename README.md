@@ -8,7 +8,7 @@
 
 ## Blog Posts - More Information About This Repo
 
-You can find more information about this project/repository and how to use it in following blog post:
+You can find more information about this project/repository and how to use it in following blog post :
 
 - [Ultimate Setup for Your Next Python Project](https://towardsdatascience.com/ultimate-setup-for-your-next-python-project-179bda8a7c2c)
 - [Automating Every Aspect of Your Python Project](https://towardsdatascience.com/automating-every-aspect-of-your-python-project-6517336af9da)
