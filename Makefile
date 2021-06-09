@@ -2,7 +2,7 @@
 MODULE := blueprint
 
 # Where to push the docker image.
-REGISTRY ?= docker.pkg.github.com/martinheinz/python-project-blueprint
+REGISTRY ?= docker.pkg.github.com/semiod/python-project-blueprint
 
 IMAGE := $(REGISTRY)/$(MODULE)
 
