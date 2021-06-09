@@ -117,7 +117,7 @@ To apply/update _Kubernetes_ manifest stored in `k8s` directory:
 ~ $ make manifest-update
 ```
 
-## Setting Up Sonar Cloud
+## Setting Up Sonar Cloud 
 - Navigate to <https://sonarcloud.io/projects>
 - Click _plus_ in top right corner -> analyze new project
 - Setup with _other CI tool_ -> _other_ -> _Linux_
