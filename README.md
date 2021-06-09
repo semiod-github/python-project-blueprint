@@ -105,7 +105,7 @@ To get debugging information of running application:
 ~ $ make cluster-debug
 ```
 
-To get remote shell into application pod:
+To get remote shell into application pod :
 
 ```console
 ~ $ make cluster-rsh
